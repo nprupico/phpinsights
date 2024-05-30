@@ -2,10 +2,10 @@
   <img src="/art/logo.gif" width="350" alt="PHP Insights">
   <img src="/art/preview.png" width="882" alt="PHP Insights Preview">
   <p align="center">
-    <a href="https://github.com/nunomaduro/phpinsights/actions/workflows/test.yaml"><img src="https://github.com/nunomaduro/phpinsights/actions/workflows/test.yaml/badge.svg" alt="Unit Tests"></a>
-    <a href="https://packagist.org/packages/nunomaduro/phpinsights"><img src="https://poser.pugx.org/nunomaduro/phpinsights/d/total.svg" alt="Total Downloads"></a>
-    <a href="https://packagist.org/packages/nunomaduro/phpinsights"><img src="https://poser.pugx.org/nunomaduro/phpinsights/v/stable.svg" alt="Latest Version"></a>
-    <a href="https://packagist.org/packages/nunomaduro/phpinsights"><img src="https://poser.pugx.org/nunomaduro/phpinsights/license.svg" alt="License"></a>
+    <a href="https://github.com/nprupico/phpinsights/actions/workflows/test.yaml"><img src="https://github.com/nprupico/phpinsights/actions/workflows/test.yaml/badge.svg" alt="Unit Tests"></a>
+    <a href="https://packagist.org/packages/nprupico/phpinsights"><img src="https://poser.pugx.org/nprupico/phpinsights/d/total.svg" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/nprupico/phpinsights"><img src="https://poser.pugx.org/nprupico/phpinsights/v/stable.svg" alt="Latest Version"></a>
+    <a href="https://packagist.org/packages/nprupico/phpinsights"><img src="https://poser.pugx.org/nprupico/phpinsights/license.svg" alt="License"></a>
   </p>
   <p align="center">
     <strong>For full documentation, visit <a href="https://phpinsights.com">phpinsights.com</a></strong>.
@@ -21,7 +21,7 @@ It was created by **[Nuno Maduro](https://github.com/nunomaduro)**, logo design 
 ### First, install:
 
 ```
-composer require nunomaduro/phpinsights --dev
+composer require nprupico/phpinsights --dev
 ```
 
 ### Then, use it:
