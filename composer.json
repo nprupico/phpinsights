@@ -45,7 +45,7 @@
         "illuminate/support": "^5.8|^6.0|^7.0|^8.0|^9.52.16|^10.0",
         "mockery/mockery": "^1.6.6",
         "phpstan/phpstan-strict-rules": "^0.12.11",
-        "phpunit/phpunit": "^8.0|^9.0|^10.4.2",
+        "phpunit/phpunit": "^8.0|^9.0|^10.4.2|^11.0",
         "rector/rector": "0.11.56",
         "symfony/var-dumper": "^5.4|^6.0|^7.0",
         "thecodingmachine/phpstan-strict-rules": "^0.12.2"
